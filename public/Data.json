@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "name": "Headphone",
+        "price": 30,
+        "img": "./image/Headphone.jpg",
+        "discription": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "2",
+        "name": "on Ear Headphone",
+        "price": 26,
+        "img": "./image/on-Ear-Headphone.jpg",
+        "discription": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "3",
+        "name": "over ear headphone",
+        "price": 25,
+        "img": "./image/over.ear-headphone.jpg",
+        "discription": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "4",
+        "name": "iphone-12",
+        "price": 320,
+        "img": "./image/iphone-1.png",
+        "discription": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "5",
+        "name": "oppo",
+        "price": 120,
+        "img": "./image/oppo.jpg",
+        "discription": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "6",
+        "name": "samsung",
+        "price": 150,
+        "img": "./image/samsung.jpg",
+        "discription": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "7",
+        "name": "hp laptop",
+        "price": 1200,
+        "img": "./image/hp-laptop.jpg",
+        "discription": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "8",
+        "name": "gaming laptop",
+        "price": 710,
+        "img": "./image/lenovo-laptop.jpg",
+        "discription": " a Quick brown fox jumps over the lezy dog"
+    },
+    {
+        "id": "9",
+        "name": "black laptop",
+        "price": 500,
+        "img": "./image/black-laptop.jpg",
+        "discription": " a Quick brown fox jumps over the lezy dog"
+    }
+]
